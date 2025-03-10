@@ -10,20 +10,20 @@ AI Toolkit 是一个开源的 AI 提示词（Prompt）库，帮助用户更高�
 - 💻 编程 AI（Code Llama、Copilot）优化代码的最佳提示词
 
 ## 📌 目录结构
-ai-toolkit/
-│── prompts/
-│   ├── chatgpt/
-│   │   ├── writing.md
-│   │   ├── coding.md
-│   │   ├── brainstorming.md
-│   ├── stable-diffusion/
-│   │   ├── photorealistic.md
-│   │   ├── anime-style.md
-│   │   ├── pixel-art.md
-│   ├── coding-ai/
-│   │   ├── python.md
-│   │   ├── sql.md
-│   │   ├── javascript.md
-│── README.md
-│── CONTRIBUTING.md
-│── LICENSE
+ ai-toolkit/
+ │── prompts/
+ │   ├── chatgpt/
+ │   │   ├── writing.md
+ │   │   ├── coding.md
+ │   │   ├── brainstorming.md
+ │   ├── stable-diffusion/
+ │   │   ├── photorealistic.md
+ │   │   ├── anime-style.md
+ │   │   ├── pixel-art.md
+ │   ├── coding-ai/
+ │   │   ├── python.md
+ │   │   ├── sql.md
+ │   │   ├── javascript.md
+ │── README.md
+ │── CONTRIBUTING.md
+ │── LICENSE
